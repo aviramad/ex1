@@ -15,7 +15,7 @@
 - אפריקה
 - מערב אסיה
 
-![ארנבת](/images/bunny.png)
+![image](/images/bunny.png)
 
 ## מינים נפוצים ##
 
